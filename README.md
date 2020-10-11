@@ -6,7 +6,7 @@
     <img src="https://github.com/ArchNetModule/Stockage/blob/master/Images/ArchNetLogo.png" alt="Logo" width="300">
   </a>
 
-  <h3 align="center">Module Runtime</h3>
+  <h3 align="center">Module Shadow</h3>
 </p>
 
 
@@ -58,25 +58,16 @@ in Unity : Windows -> Package Manager -> + -> Add package from git url
 
 2. Clone the repo
 
-3. Drag and drop Prefab "ModuleRuntime"  from the package
+3. Drag and drop Prefab "ModuleShadow"  from the package into a Canvas component
 
-4. Join Module PlayerPref (optional)
+4. Join Module Traslate (optional)
 
 5. Launch scene
 
-6. Press F1 by default to see project data
 
+[OPTIONAL]
 
-[SERVICES]
-
-- AUDIO : this service give volume and mute of your audiosource ( by default it will use the attached component)
-- RESOLUTION : this service give resolution size and screen mode of the project
-- PRODUCT : this service give product and company name of the project
-- VERSION : this service give the actual version of the project
-- FPS : this service give the ms and the fps of the project
-- PLATEFORM : this service give the actual plateform developpement of the project
-- GRAPHICS : this serivce give the quality level and the anti aliasinf mode of the project
-- SHADOW : this service give the shadow resolution and the shadown level of the project
+By default every text is on the format "key_", if you want to complete this module, add Module Translate and follow the module instuction.
 
 <!-- CONTACT -->
 ## Contact
