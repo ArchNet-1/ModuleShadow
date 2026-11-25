@@ -23,4 +23,4 @@ Drop the **ModuleShadow** prefab into your menu canvas. With URP or HDRP, shadow
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

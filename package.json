@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Shadow Module",
   "description": "Shadow settings for an options menu (type and resolution), applied at once and saved.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#ModuleShadow",
   "changelogUrl": "https://github.com/ArchNet-1/ModuleShadow/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/ModuleShadow/blob/master/LICENSE.md",
